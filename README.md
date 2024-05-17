@@ -1,4 +1,4 @@
-<h1 align="center">Nome do Projeto</h1>
+<h1 align="center">André DevLinks</h1>
 
 <p align="center">Projeto feito em HTML, CSS e JavaScript<br>Feito com o programa Discover da Rocket Seat</p>
 
